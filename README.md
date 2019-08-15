@@ -12,3 +12,7 @@ A Reset button has been inserted, which aims to turn off the LED's and the buzze
 The power supply can be a 9 volts battery or a power supply. In this case, a 5Vdc (350mA) power supply was used.
 
 It's a simple project but very important for the learning of Basic Electronics, because the components are the most commonly used in many digital and analog circuits.
+
+### Sample
+
+![sample](https://github.com/lucasltv/electronic-maze/blob/master/sample.png?raw=true)
